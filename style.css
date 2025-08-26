@@ -1,0 +1,29 @@
+.btn{
+background-color: rgba(124, 78, 228, 1);
+color: aliceblue;
+}
+span{
+    color:rgba(124, 78, 228, 1);
+}
+.hero-container{
+    background-color: rgba(124, 78, 228, 1);
+}
+.read{
+    background-color: black;
+    color: aliceblue;
+}
+.btn2{
+border-color: blueviolet;
+color:blueviolet;
+    
+}
+.purple{
+    color: blueviolet;
+}
+.popular{
+    display: flex;
+}
+btn3{
+    color: aliceblue;
+    border-color: aliceblue;
+}
