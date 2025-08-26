@@ -13,17 +13,32 @@ span{
     color: aliceblue;
 }
 .btn2{
-border-color: blueviolet;
-color:blueviolet;
+border-color:  rgba(124, 78, 228, 1);
+color: rgba(124, 78, 228, 1);
     
 }
 .purple{
-    color: blueviolet;
+    color:  rgba(124, 78, 228, 1);
 }
 .popular{
     display: flex;
 }
-btn3{
+.btn3{
     color: aliceblue;
+    background-color: rgba(124, 78, 228, 1);
+    padding-left:24px ;
+    padding-right: 25px;
     border-color: aliceblue;
+    border-radius:20px ;
+    
 }
+
+.button-view{
+    background-color: rgba(124, 78, 228, 1);
+    margin-right:30px ;
+    color: aliceblue;
+}
+
+    
+
+
